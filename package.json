@@ -1,5 +1,5 @@
 {
-  "name": "create-discord-ts-app",
+  "name": "create-ts-discord-app",
   "version": "1.0.0",
   "bin": {
     "create-discord-ts-app": "index.js"
