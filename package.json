@@ -1,0 +1,26 @@
+{
+  "name": "create-discord-ts-app",
+  "version": "1.0.0",
+  "bin": {
+    "create-discord-ts-app": "index.js"
+  },
+  "description": "A CLI to automatically clone the discord.js starter module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/th1m0/create-discord-ts-app.git"
+  },
+  "keywords": [],
+  "author": "Thiimo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/th1m0/create-discord-ts-app/issues"
+  },
+  "homepage": "https://github.com/th1m0/create-discord-ts-app#readme",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  }
+}
